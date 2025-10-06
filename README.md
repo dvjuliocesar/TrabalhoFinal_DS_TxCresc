@@ -64,4 +64,4 @@ A exploração revelou padrões não triviais sobre o comportamento dos dados:
 ---
 ## 🏁 Conclusão Final
 
-O projeto alcançou com sucesso seu objetivo de analisar e extrair insights valiosos da base de dados. Foi possível não apenas caracterizar a estrutura de desigualdade do mercado e identificar tendências importantes, mas também construir um modelo preditivo que validou a principal hipótese do estudo: **o perfil do advogado é a chave para entender a dinâmica do processo**.
+Nesse projeto foi realizada a análise e a extração de insights valiosos da base de dados. Foi possível não apenas caracterizar a estrutura de desigualdade do mercado e identificar tendências importantes, mas também construir um modelo preditivo que validou a principal hipótese do estudo: **o perfil do advogado é a chave para entender a dinâmica do processo**.
